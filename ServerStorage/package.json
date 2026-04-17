@@ -1,9 +1,0 @@
-{
-  "name": "serverstorage",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Single-user Lua script hosting dashboard",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
